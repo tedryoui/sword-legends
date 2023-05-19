@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b94b0267874966a63d89a1a586a413, type: 3}
+  m_Name: Assassin Choose Fabric
+  m_EditorClassIdentifier: 
+  _concreteWeapon: {fileID: 11400000, guid: 470e663ade42ec74283e8d39dd66c73c, type: 2}
+  _weaponName: Assassin Sword
+  _weaponIcon: {fileID: 21300000, guid: fe24b30052a1f294a95b6e685833c967, type: 3}

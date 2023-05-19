@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cdc3d1055724ac99aa27dda8568f60e, type: 3}
+  m_Name: AssassinWeapon
+  m_EditorClassIdentifier: 
+  WeaponPrefab: {fileID: 5698625095575076468, guid: 32bcdb18b37e53d4e937994b97bc3c97,
+    type: 3}
+  gradeLevel: 2
+  _parameters:
+  - delay: 8
+    bladesAmount: 3
+    throwSpeed: 10
+  - delay: 6
+    bladesAmount: 5
+    throwSpeed: 20
+  - delay: 4
+    bladesAmount: 8
+    throwSpeed: 30
+  ThrowOffset: 2
